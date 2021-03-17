@@ -5,5 +5,5 @@ setup(name='test_run',
       description='Import test run',
       author='Gabriel Vigil',
       url='https://www.archethought.com',
-      packages=['test_module']
+      packages=['test_run']
      )
